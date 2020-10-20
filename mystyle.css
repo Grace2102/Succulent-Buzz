@@ -119,13 +119,15 @@ figcaption {
   .fa-facebook {
     background: #3B5998;
     color: white;
-    padding-right: 2.5%;
-    padding-left: 2.5%;
+    text-align: center;
+    padding-left: 2.25%;
+    padding-right: 2.25%;
   }
 
   .fa-instagram {
     background: #8c3597;
     color: white;
-    padding-right: 3.2%;
-    padding-right: 2.7%;
+    text-align: center;
+    padding-left: auto;
+    padding-right: 2.5%;
   }
